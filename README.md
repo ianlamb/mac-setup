@@ -1,6 +1,15 @@
 # Mac Setup
 
+
 ## General Settings
+
+### Networking
+- Connect to Wi-Fi
+- Advanced...
+  - DNS
+    - add DNS Servers:
+      - 1.1.1.1 (Cloudflare)
+      - 8.8.8.8 (Google)
 
 ### Keyboard
 - Key Repeat => Fast
@@ -13,15 +22,27 @@
 
 ### Trackpad
 - Scroll & Zoom
-  - Scroll direction: Natural => Uncheck
+  - Scroll direction: Natural => uncheck
+
+### Sound
+- Show Sound in menu bar => always
+
+### Bluetooth
+- Show Bluetooth in menu bar => checked
+
 
 ## Apps
 
 ### Basic
 - Chrome
+  - https://www.google.com/intl/en_ca/chrome/
+  - Show Bookmarks Bar (Command + Shift + B)
 - Firefox
+  - https://www.mozilla.org/en-CA/firefox/products/
 - Slack
+  - https://slack.com/
 - VSCode
+  - https://code.visualstudio.com/
 
 ### Developer Tools
 - XCode Command Line Tools
@@ -40,6 +61,7 @@
 - docker
 - yarn
   - `corepack enable`
+
 
 ## Terminal
 
