@@ -24,6 +24,9 @@
 - Scroll & Zoom
   - Scroll direction: Natural => uncheck
 
+### Displays
+- Adjust external display position until cursor transition feels good
+
 ### Sound
 - Show Sound in menu bar => always
 
