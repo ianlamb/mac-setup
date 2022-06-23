@@ -40,6 +40,9 @@
 - Chrome
   - https://www.google.com/intl/en_ca/chrome/
   - Show Bookmarks Bar (Command + Shift + B)
+  - Settings (Command + ,)
+    - On startup
+      - Continue where you left off
 - Firefox
   - https://www.mozilla.org/en-CA/firefox/products/
 - Slack
