@@ -3,6 +3,10 @@
 
 ## General Settings
 
+### General
+- Appearance: Dark
+- Default web browser: Chrome
+
 ### Networking
 - Connect to Wi-Fi
 - Advanced...
