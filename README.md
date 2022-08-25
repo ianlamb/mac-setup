@@ -53,6 +53,11 @@
   - https://slack.com/
 - VSCode
   - https://code.visualstudio.com/
+  - Extensions
+    - Docker
+    - ESLint
+    - Prettier - Code formatter
+    - Go
 
 ### Developer Tools
 - XCode Command Line Tools
