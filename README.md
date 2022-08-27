@@ -24,7 +24,7 @@
 ### Keyboard
 - Key Repeat => Fast
 - Delay Until Repeat => Short-Medium
-- Modifiers Keys...
+- Modifiers Keys... (ONLY WHILE KEYBOARD IS CONNECTED)
   - Option => Command
   - Command => Option
 
