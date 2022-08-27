@@ -15,6 +15,12 @@
       - 1.1.1.1 (Cloudflare)
       - 8.8.8.8 (Google)
 
+### Trackpad
+- Point & Click
+  - Tap to click => check
+- Scroll & Zoom
+  - Scroll direction: Natural => uncheck
+
 ### Keyboard
 - Key Repeat => Fast
 - Delay Until Repeat => Short-Medium
@@ -23,10 +29,6 @@
   - Command => Option
 
 ![image](https://user-images.githubusercontent.com/793544/174673123-61d3c2dd-e471-4432-9417-8aeccc2d7a5d.png)
-
-### Trackpad
-- Scroll & Zoom
-  - Scroll direction: Natural => uncheck
 
 ### Displays
 - Adjust external display position until cursor transition feels good
