@@ -22,13 +22,18 @@
   - Scroll direction: Natural => uncheck
 
 ### Keyboard
-- Key Repeat => Fast
-- Delay Until Repeat => Short-Medium
-- Modifiers Keys... (ONLY WHILE KEYBOARD IS CONNECTED)
-  - Option => Command
-  - Command => Option
+- Keyboard
+  - Key Repeat => Fast
+  - Delay Until Repeat => Short-Medium
+  - Modifiers Keys... (ONLY WHILE KEYBOARD IS CONNECTED)
+    - Option => Command
+    - Command => Option
 
 ![image](https://user-images.githubusercontent.com/793544/174673123-61d3c2dd-e471-4432-9417-8aeccc2d7a5d.png)
+
+- Text
+  - Uncheck all autocorrect options
+  - Remove all phrase replacements
 
 ### Displays
 - Adjust external display position until cursor transition feels good
