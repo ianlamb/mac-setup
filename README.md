@@ -35,6 +35,10 @@
   - Uncheck all autocorrect options
   - Remove all phrase replacements
 
+### Battery
+- Power Adapter
+  - Prevent your Mac from automatically sleeping when the display is off => checked
+
 ### Displays
 - Adjust external display position until cursor transition feels good
 
