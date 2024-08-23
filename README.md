@@ -69,6 +69,10 @@
     - ESLint
     - Prettier - Code formatter
     - Go
+  - Setup terminal command so we can open files with `code <path>`
+    - Open command palette `Command + Shift + P`
+    - Type `Shell`
+    - Select `Shell Command: Install code in PATH`
 
 ### Developer Tools
 - XCode Command Line Tools
